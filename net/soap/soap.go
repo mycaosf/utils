@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/xml"
 	"io"
-	"kl2fans/net/httpc"
+	"github.com/mycaosf/utils/net/httpc"
 	"net/http"
 	"reflect"
 )
