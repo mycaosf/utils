@@ -1,3 +1,3 @@
-module github.com/mycaosf/net/httpc
+module github.com/mycaosf/utils/net/httpc
 
 go 1.12
