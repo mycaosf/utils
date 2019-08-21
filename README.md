@@ -1,2 +1,2 @@
 # utils
-golang utils
+utils for golang
