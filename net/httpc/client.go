@@ -13,7 +13,7 @@ import (
 	"strings"
 )
 
-//Get http get command, header, timeout may be il
+//Get http get command, header, timeout may be nil
 func Get(url string, header http.Header, timeout *Timeout) (*http.Response, error) {
 	return Request(http.MethodGet, url, header, nil, timeout)
 }
